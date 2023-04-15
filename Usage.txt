@@ -1,0 +1,2 @@
+Arrow keys for movement, LCtrl for left click, RCtrl for right click.
+Speed and friction can be controlled under task bar icon.
